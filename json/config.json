@@ -1,0 +1,38 @@
+{
+    "data":[
+        {
+            "navigation_name" : "工具",
+            "web":[
+                {
+                    "icon":"http://tool.lf1874.com/assets/images/logos/%E7%9F%A5%E4%B9%8E.png",
+                    "title":"知乎热榜",
+                    "info":"知乎热点，摸鱼首选",
+                    "url":"https://www.zhihu.com/hot"
+                },
+                {
+                    "icon":"test2",
+                    "title":"test2",
+                    "info":""
+                }
+            ],
+            "icon":""
+        },
+        {
+            "navigation_name" : "摸鱼",
+            "web":[
+                {
+                    "icon":"http://tool.lf1874.com/assets/images/logos/%E7%9F%A5%E4%B9%8E.png",
+                    "title":"知乎",
+                    "info":"知乎热点，摸鱼首选",
+                    "url":"https://www.zhihu.com/hot"
+                },
+                {
+                    "icon":"test2",
+                    "title":"test2",
+                    "info":""
+                }
+            ],
+            "icon":""
+        }
+    ]
+}
