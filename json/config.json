@@ -1,38 +1,132 @@
 {
-    "data":[
+    "data": [
         {
-            "navigation_name" : "工具",
-            "web":[
+            "navigation_name": "摸鱼",
+            "web": [
                 {
-                    "icon":"http://tool.lf1874.com/assets/images/logos/%E7%9F%A5%E4%B9%8E.png",
-                    "title":"知乎热榜",
-                    "info":"知乎热点，摸鱼首选",
-                    "url":"https://www.zhihu.com/hot"
+                    "icon": "/assets/images/logos/%E7%9F%A5%E4%B9%8E.png",
+                    "title": "知乎",
+                    "info": "知乎热点，摸鱼首选",
+                    "url": "https://www.zhihu.com/hot"
                 },
                 {
-                    "icon":"test2",
-                    "title":"test2",
-                    "info":""
+                    "icon": "/assets/images/logos/CN_bilibili.png",
+                    "title": "bilibili",
+                    "info": "嚣张点，看视频",
+                    "url": "https://www.bilibili.com/"
+                },
+                {
+                    "icon": "/assets/images/logos/google_news.png",
+                    "title": "Google news",
+                    "info": "看点新闻",
+                    "url": "https://news.google.com/topstories"
+                },
+                {
+                    "icon": "/assets/images/logos/youtube.png",
+                    "title": "Youtube",
+                    "info": "Youtube",
+                    "url": "https://www.youtube.com/"
+                },
+                {
+                    "icon": "/assets/images/logos/历史.png",
+                    "title": "全历史",
+                    "info": "以史为镜，可以知兴替",
+                    "url": "https://www.allhistory.com/"
                 }
-            ],
-            "icon":""
+            ]
         },
         {
-            "navigation_name" : "摸鱼",
-            "web":[
+            "navigation_name": "在线开发工具",
+            "web": [
                 {
-                    "icon":"http://tool.lf1874.com/assets/images/logos/%E7%9F%A5%E4%B9%8E.png",
-                    "title":"知乎",
-                    "info":"知乎热点，摸鱼首选",
-                    "url":"https://www.zhihu.com/hot"
+                    "icon": "/assets/images/logos/php_elephant.png",
+                    "title": "PHP在线运行",
+                    "info": "在线运行php,c,c++,go,python,java,groovy代码",
+                    "url": "https://tool.lu/coderunner/"
                 },
                 {
-                    "icon":"test2",
-                    "title":"test2",
-                    "info":""
+                    "icon": "/assets/images/logos/JSON.png",
+                    "title": "json工具",
+                    "info": "在线编辑json，语法检查，转php,go类",
+                    "url": "https://tool.lu/json/"
+                },
+                {
+                    "icon": "/assets/images/logos/SQL.png",
+                    "title": "sql工具",
+                    "info": "sql在线美化，格式化，压缩",
+                    "url": "https://tool.lu/xml/"
+                },
+                {
+                    "icon": "/assets/images/logos/xml.png",
+                    "title": "xml工具",
+                    "info": "xml格式化、压缩",
+                    "url": "https://tool.lu/sql/"
+                },
+                {
+                    "icon": "/assets/images/logos/时间.png",
+                    "title": "时间戳转换",
+                    "info": "在线时间戳转换",
+                    "url": "https://tool.lu/timestamp/"
+                },
+                {
+                    "icon": "/assets/images/logos/markdown.png",
+                    "title": "markdown编辑器",
+                    "info": "在线markdown编辑器",
+                    "url": "https://tool.lu/markdown/"
                 }
-            ],
-            "icon":""
+            ]
+        },
+        {
+            "navigation_name": "低频在线工具",
+            "web": [
+                {
+                    "icon": "/assets/images/logos/数字大写.png",
+                    "title": "数字转大写",
+                    "info": "在线数字转大写",
+                    "url": "https://tool.lu/daxie/"
+                },
+                {
+                    "icon": "/assets/images/logos/图标.png",
+                    "title": "favicon在线制作",
+                    "info": "icon在线制作",
+                    "url": "https://tool.lu/favicon/"
+                },
+                {
+                    "icon": "/assets/images/logos/HS.png",
+                    "title": "图片base64编码",
+                    "info": "图片base64编码",
+                    "url": "https://tool.lu/base64image/"
+                },
+                {
+                    "icon": "/assets/images/logos/ip.png",
+                    "title": "IP地址查询",
+                    "info": "IP地址查询",
+                    "url": "https://tool.lu/ip/"
+                },
+                {
+                    "icon": "/assets/images/logos/手机号码.png",
+                    "title": "手机号归属地",
+                    "info": "手机号归属地",
+                    "url": "https://tool.lu/mobile/"
+                },
+                {
+                    "icon": "/assets/images/logos/图片.png",
+                    "title": "图片压缩",
+                    "info": "图片压缩",
+                    "url": "https://tool.lu/tinyimage/"
+                }
+            ]
+        },
+        {
+            "navigation_name": "在线文档",
+            "web": [
+                {
+                    "icon": "/assets/images/logos/ts_linux.png",
+                    "title": "Linux命令",
+                    "info": "Linux命令查询",
+                    "url": "https://tool.lu/command/"
+                }
+            ]
         }
     ]
 }

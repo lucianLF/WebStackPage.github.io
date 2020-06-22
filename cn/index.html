@@ -158,13 +158,13 @@
                 r.data.forEach(function (d) {
 
                     nav += "<li>";
-                    nav += '<a href="#' + d.navigation_name + '" class="smooth">';
+                    nav += '<a href="#' + d.navigation_name + '-1" class="smooth">';
                     // nav += '<i class="linecons-star"></i>';
                     nav += '<span class="title">' + d.navigation_name + '</span>';
                     nav += '</a>';
                     nav += '</li>';
 
-
+                    content += '<br id="' + d.navigation_name + '-1">';
                     content += '<h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="' + d.navigation_name + '"></i>' + d.navigation_name + '</h4>';
                     content += '<div class="row">';
 
@@ -189,7 +189,7 @@
                         content += '</div>';
                         content += '</div>';
                     })
-                    content += '</div>';
+                    content += '</div><br>';
                 });
                 $("#main-menu").html(nav);
                 $("#nav-navbar").after(content);
